@@ -8,7 +8,7 @@ php simple Back-End class
 Initialize
 */
 
-$app = new App();
+$app = new kr\bartnet\App();
 $params = $app->getParams();
 $data = $app->getData();
  
